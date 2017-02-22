@@ -4,7 +4,7 @@
    New Perspectives on HTML5 and CSS3, 7th Edition
    Tutorial 2
    Tutorial Case
-   
+
    TSS Layout Styles
    Filename: tss_layout.css
 
@@ -59,4 +59,3 @@ article.syllabus {
 body > footer {
 	width: 100%;
 	clear: left;
-}
